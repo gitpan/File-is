@@ -18,10 +18,10 @@ name: File-is
 provides:
   File::is:
     file: lib/File/is.pm
-    version: 0.02
+    version: 0.03
 requires:
   Carp: 0
   File::Spec: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.02
+version: 0.03
